@@ -1,4 +1,3 @@
-//mostra degli avvisi riguardo la quantità di testo scritto in una textarea (es. troppo corto, troppo lungo, lunghezza ottimale)
 //10.
 
 import { useState } from "react";
