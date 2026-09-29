@@ -41,7 +41,7 @@ export default function TextAreaQuantity() {
         value={text}
         onChange={handleChange}
         maxLength={60}
-        className="p-5 bg-sky-800 border-2 border-[goldenrod] w-[80%] "
+        className="p-5 bg-sky-800 border-2 border-[goldenrod] w-[80%] text-[whitesmoke]"
       ></textarea>
       <div className="flex justify-end w-[80%]">
         <p className={`${styleMessaggio} font-semibold`}>{messaggio}</p>
